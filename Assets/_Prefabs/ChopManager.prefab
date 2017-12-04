@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1789202674278750}
+  m_IsPrefabParent: 1
+--- !u!1 &1789202674278750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4146203714618852}
+  - component: {fileID: 114609236623599318}
+  m_Layer: 0
+  m_Name: ChopManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4146203714618852
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789202674278750}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.4595685, y: 0.65347004, z: 4.0321918}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114609236623599318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789202674278750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b213d9a8e07694a964e3418cf1e191, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arrows:
+  - {fileID: 1384088954889674, guid: 3e25ae57ede19b945a762ec366fe8153, type: 2}
+  - {fileID: 1959310535341388, guid: b683a14ca8947364bb57f16403d870c4, type: 2}
+  - {fileID: 1416270440057014, guid: 07e10c003feeb7344b22f4ae577f0bc2, type: 2}
+  - {fileID: 1942078323811120, guid: 3350d92095e150c429fdc950432ba292, type: 2}
+  minChops: 4
+  maxChops: 6
+  arrowSequenceLoc: {x: -5, y: -2, z: 0}
+  chosenIngredient: {fileID: 0}
+  SliceAnimation: {fileID: 1028974439625494, guid: bdfb07f46f8f45b4b92e57c696abd589,
+    type: 2}

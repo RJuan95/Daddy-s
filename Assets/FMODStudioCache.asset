@@ -1,0 +1,1257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114979162746293574}
+  - {fileID: 114195862663783606}
+  EditorEvents:
+  - {fileID: 114790377230753030}
+  - {fileID: 114248170197362632}
+  - {fileID: 114179308430921336}
+  - {fileID: 114916617881801790}
+  - {fileID: 114038543008267758}
+  - {fileID: 114348310440213874}
+  - {fileID: 114777035761871726}
+  - {fileID: 114405403713336708}
+  - {fileID: 114408430005691482}
+  - {fileID: 114339897835919752}
+  - {fileID: 114284692972204696}
+  MasterBankRef: {fileID: 114195862663783606}
+  StringsBankRef: {fileID: 114979162746293574}
+  stringsBankWriteTime: 636465172556815334
+  cacheVersion: 2
+--- !u!114 &114035986129505688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636461779200862890
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4236800
+  Exists: 1
+--- !u!114 &114038543008267758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/NoteFailure
+  guid: d1be195802b0214499c1a9c3e69319a0
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114045616555449336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464406356725597
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114084788733794168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\FMOD\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452204160291077
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2842656
+  Exists: 1
+--- !u!114 &114135260922979904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636463624484358795
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4620288
+  Exists: 1
+--- !u!114 &114159138143664140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464407628037619
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114179308430921336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/GrabIngredient
+  guid: 531a060095760c469673e666ac6e34f1
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114195862663783606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636465172559189433
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5691488
+  Exists: 1
+--- !u!114 &114225085255207238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452281982191241
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 0
+--- !u!114 &114248170197362632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Success
+  guid: 92558b6e4304f3409e32be43a8c6f4e8
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114248379650421300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464407628037619
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 0
+--- !u!114 &114249465862022928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\FMOD\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452262826789812
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2842656
+  Exists: 0
+--- !u!114 &114251922125127310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: E:\Unity Projects\270-CookingDaddy\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464609903224048
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114267864480102734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464378472165152
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114275690698086518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636461803960637932
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4236800
+  Exists: 1
+--- !u!114 &114284692972204696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MenuAdvance
+  guid: 0bacac662c440f42adaa5815373ebe60
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+--- !u!114 &114300131172721238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636452291905642648
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 0
+--- !u!114 &114306601993754926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Note Failure
+  guid: d1be195802b0214499c1a9c3e69319a0
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114326187559771292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636452291905642648
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114331412865980236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636452291905642648
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114339897835919752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/ArrowDrop
+  guid: a800615818ec164e8ed70eabe43781d9
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+--- !u!114 &114343951189333262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452281982191241
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114348310440213874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Loss
+  guid: 419634b32f57ac459ac0183d494ecf84
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114395532188614146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient Track
+  guid: 5de9926c6dfe12419eb38d0a0f2ee2e7
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114405403713336708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VeggieScream
+  guid: 5370a1a6da191a4cbc1aa17efb3b5157
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114408430005691482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/BackgroundMusic
+  guid: 25148dd5c9b79541af9abbf838f52e44
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114412957587766156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452266761400603
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114437041074261588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: E:\Unity Projects\270-CookingDaddy\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452440681024219
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114438138636173276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636463624484358795
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4620288
+  Exists: 1
+--- !u!114 &114441440612450836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636457714445624427
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3477408
+  Exists: 1
+--- !u!114 &114442863180329878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452266761400603
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114450398669181992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636457661287811849
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3474944
+  Exists: 0
+--- !u!114 &114527952604561804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636457641181373918
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3474944
+  Exists: 1
+--- !u!114 &114530494105494198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636463626120643415
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4620288
+  Exists: 1
+--- !u!114 &114559036752850936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Juros\OneDrive\Documents\GPM\GitHub\Game270Pair\Election Day\ElectionDay\Cooking
+    Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636464385230863449
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114589948509422180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452266761400603
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 0
+--- !u!114 &114650347966628652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636457641181373918
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3474944
+  Exists: 1
+--- !u!114 &114654091297969248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636463626611274268
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4620288
+  Exists: 1
+--- !u!114 &114681418761985182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636463624484358795
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4620288
+  Exists: 1
+--- !u!114 &114689846552561004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636465107550737293
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5691488
+  Exists: 1
+--- !u!114 &114691598969579934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636452291905642648
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114744656285202002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636461786642463072
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4236800
+  Exists: 1
+--- !u!114 &114749869458817376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636465159862908736
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5691488
+  Exists: 1
+--- !u!114 &114758295767433852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636465107550737293
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5691488
+  Exists: 1
+--- !u!114 &114759644155977394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\FMOD\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452201449707392
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2842656
+  Exists: 1
+--- !u!114 &114777035761871726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/PotBoiling
+  guid: 41274bedd6c86542ba8547666846111f
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+--- !u!114 &114784087971187676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464406356725597
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114790377230753030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Test
+  guid: 3eb785fe61fcdc49ba269e58ed55d691
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114796288471834748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Juros\OneDrive\Documents\GPM\GitHub\Game270Pair\Election Day\ElectionDay\Cooking
+    Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636453278519105739
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114800566253154002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: E:\Unity Projects\270-CookingDaddy\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452440681024219
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114804830082685078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636465159862908736
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5691488
+  Exists: 1
+--- !u!114 &114817416964560888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452266761400603
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114832543049897834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/AmbientTrack
+  guid: 5de9926c6dfe12419eb38d0a0f2ee2e7
+  Banks:
+  - {fileID: 114527952604561804}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114832674472691414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636457661287811849
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3474944
+  Exists: 1
+--- !u!114 &114837955466976214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Note Success
+  guid: 92558b6e4304f3409e32be43a8c6f4e8
+  Banks: []
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+--- !u!114 &114859723887150944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\Student\Documents\GitHub\Game270Group\Cooking Daddy\Assets\Editor
+    Default Resources\FMODBuildFolder\Desktop\Master Bank.bank
+  lastModified: 636464466254283351
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114874610751583556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636464407628037619
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 5659776
+  Exists: 1
+--- !u!114 &114899970930237528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636463626120643415
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 4620288
+  Exists: 0
+--- !u!114 &114916617881801790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient Track
+  guid: 5de9926c6dfe12419eb38d0a0f2ee2e7
+  Banks:
+  - {fileID: 114195862663783606}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+--- !u!114 &114975627000600394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jzolyak\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636457712008149102
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 3477408
+  Exists: 1
+--- !u!114 &114979162746293574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master Bank.strings.bank
+  lastModified: 636465172556815334
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 1154
+  Exists: 1
+--- !u!114 &114995550258547570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: C:\Users\jomaverg\Documents\Cooking Daddy\Assets\Editor Default Resources\FMODBuildFolder\Desktop\Master
+    Bank.bank
+  lastModified: 636452281982191241
+  LoadResult: 0
+  FileSizes:
+  - Name: 
+    Value: 2847328
+  Exists: 1
+--- !u!114 &114996382263155964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Failure
+  guid: d1be195802b0214499c1a9c3e69319a0
+  Banks:
+  - {fileID: 114527952604561804}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
